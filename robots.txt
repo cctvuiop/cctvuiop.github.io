@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cctvuiop.github.io//sitemap.xml
